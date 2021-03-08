@@ -5,9 +5,17 @@ public class MyFirstProgram {
       Hello("Alex");
       Hello("Nikolay");
       Hello("Denis");
+
+      double len = 5;
+        System.out.println("Площадь квардрата со стороной " + len + " * "+ len + " = " + area(len));
     }
 
     public static void Hello(String somebody) {
-        System.out.print("hello world " + somebody + "! ");
+        System.out.println("hello world " + somebody + "! ");
+    }
+
+    public static double area(double l){
+        return l*l;
+
     }
 }
