@@ -5,4 +5,8 @@ public class Rectangle {
         this.a = a;
         this.b = b;
     }
+
+    public double prem() {
+        return this.a * this.b;
+    }
 }
