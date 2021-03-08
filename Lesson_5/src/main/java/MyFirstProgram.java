@@ -6,25 +6,22 @@ public class MyFirstProgram {
       hello("Nikolay");
       hello("Denis");
 
-      double len = 5; //Для квадрата
-        System.out.println("Площадь квардрата со стороной " + len + " * "+ len + " = " + area(len));
+        Square s = new Square(5);//Для квадрата
+        System.out.println("Площадь квардрата со стороной " + s.l + " * "+ s.l + " = " + area(s));
 
-        double a = 5;
-        double b = 6;
-        System.out.println("Площадь квардрата со стороной " + a + " и " + b + " = " + prem(a,b));
+        Rectangle r = new Rectangle(5,6);
+        System.out.println("Площадь квардрата со стороной " + r.a + " и " + r.b + " = " + prem(r));
     }
 
     public static void hello(String somebody) {
         System.out.println("hello world " + somebody + "! ");
     }
 
-    public static double area(double l){
-        return l*l;
+    public static double area(Square s){
+        return s.l*s.l;
     }
 
-    public static double prem(double a, double b){
-        double S;
-        S = a * b;
-        return S;
+    public static double prem(Rectangle r){
+      return r.a * r.b;
     }
 }
