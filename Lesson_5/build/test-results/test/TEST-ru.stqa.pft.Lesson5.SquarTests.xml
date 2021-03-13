@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="ru.stqa.pft.Lesson5.SquarTests" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-03-13T13:35:03" hostname="BEST-KOMP" time="0.003">
+<testsuite name="ru.stqa.pft.Lesson5.SquarTests" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-03-13T14:04:00" hostname="BEST-KOMP" time="0.005">
   <properties/>
-  <testcase name="testArea" classname="ru.stqa.pft.Lesson5.SquarTests" time="0.003"/>
+  <testcase name="testArea" classname="ru.stqa.pft.Lesson5.SquarTests" time="0.005"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>
