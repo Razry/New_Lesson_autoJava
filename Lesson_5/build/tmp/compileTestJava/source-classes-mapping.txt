@@ -1,0 +1,2 @@
+ru/stqa/pft/Lesson5/SquarTests.java
+ ru.stqa.pft.Lesson5.SquarTests

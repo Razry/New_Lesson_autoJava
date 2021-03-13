@@ -1,6 +1,6 @@
-Square.java
- Square
-MyFirstProgram.java
- MyFirstProgram
-Rectangle.java
- Rectangle
+ru/stqa/pft/Lesson5/Square.java
+ ru.stqa.pft.Lesson5.Square
+ru/stqa/pft/Lesson5/MyFirstProgram.java
+ ru.stqa.pft.Lesson5.MyFirstProgram
+ru/stqa/pft/Lesson5/Rectangle.java
+ ru.stqa.pft.Lesson5.Rectangle

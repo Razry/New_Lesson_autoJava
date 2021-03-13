@@ -1,3 +1,5 @@
+package ru.stqa.pft.Lesson5;
+
 public class Rectangle {
     public double a, b;
 

@@ -1,3 +1,5 @@
+package ru.stqa.pft.Lesson5;
+
 public class Square {
     public double l;
 
